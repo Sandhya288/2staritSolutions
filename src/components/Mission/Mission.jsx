@@ -15,7 +15,7 @@ export const Mission = () => {
             <div className={styles.aboutItemText}>
               <h3>"At 2Star IT Solutions Private Limited, our mission is to enhance value 
                 and contribute to our clients' long-term success and competitive strength. 
-                This is achieved by assisting clients in identifying performance-enhancing
+                This is achieved by assisting clients in identifying performance
                  solutions, facilitating their implementation, and providing support in 
                  managing subsequent changes. We firmly believe that the success of every 
                  project hinges on the careful selection of a competent vendor. With a proven 
